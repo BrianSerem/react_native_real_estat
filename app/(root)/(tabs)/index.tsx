@@ -16,6 +16,7 @@ export default function Index() {
       <Link href="/profile"> Profile</Link>
       <Link href="/properties/1"> Property</Link>
 
+      <Text className="font-bold"> Hello Does this work??</Text>
     </View>
   );
 }
